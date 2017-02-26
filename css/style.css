@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #002633;
+}
+
+.wrap{
+	margin: 40px auto;
+	background: #ff9966;
+	width: 800px;
+	padding: 35px;
+	border: 4px solid brown;
+}
+.addDiv, .editDiv, .delDiv, .result{
+	margin: 20px;
+	padding: 20px;
+	word-spacing: 4px;
+	font-size: 20px;
+	border: 2px solid #4d4d00;
+}
+
+.addDiv{
+	background: #bbbb77;
+	
+}
+.editDiv{
+	background: #bbbb77;
+}
+.delDiv{
+	background: #bbbb77;
+}
+
+input{
+	width: 150px;
+	padding: 6px;
+	padding-left: 10px;
+	font-size: 16px;
+	background: #E6E7E8;
+	border: 2px solid brown;
+}
+
+button{
+	width: 80px;
+	color: #d6d6c2;
+/* 	padding: 4px; */
+	height: 36px;
+	font-size: 18px;
+	border: 2px solid brown;
+	border-radius: 8px;
+	background: #006622;
+}
+
+.result{
+  height: 50px;
+	background: #bbbb77;
+	
+}
