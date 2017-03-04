@@ -5,9 +5,17 @@
 body{
 	background: #002633;
 }
-
+h1{
+	margin: 20px auto 0px;
+	background: #ff9966;
+	width: 855px;
+	border: 2px solid brown;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
 .wrap{
-	margin: 40px auto;
+	margin: 10px auto;
 	background: #ff9966;
 	width: 800px;
 	padding: 35px;
